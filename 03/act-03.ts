@@ -55,7 +55,7 @@ class Ejercicio{
             console.log(`El numero de alumnos es: ${alumnos}\nEl pago por alumno es: ${costoAlumnos}`);
         }
     }
-    static ejercicio3(){
+    static  (){
         let duracion:number = Number(prompt("Introduce la duración de la llamada"));
         let dia:any = prompt("Introduce el dia que tuvo su llamada (lunes,martes...)" ?? "");
         let turno:any;
